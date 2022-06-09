@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wctseng99
+- 👋 Hi, I’m Jim Tseng.
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning Web Development, SQL, and DSA.
 - 📫 How to reach me: wctseng99@gmail.com
