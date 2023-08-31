@@ -5,7 +5,7 @@
 
 ### Hi there, I'm Wei-Chun 👋
 
-- 💻 Research Assistant [@E3 Research Group]([https://www.ntu.edu.tw/](https://www.e3group.caece.net))
+- 💻 Research Assistant [@E3 Research Group](https://www.e3group.caece.net)
 - 🏢 Graudate Student [@National Taiwan University](https://www.ntu.edu.tw/)
 - 📫 How to reach me: wctseng99@gmail.com
 
