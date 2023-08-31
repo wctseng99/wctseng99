@@ -5,7 +5,7 @@
 
 ### Hi there, I'm Wei-Chun 👋
 
-- 🏢 Research Assistant [@National Taiwan University](https://www.ntu.edu.tw/), [@E3 Research Group](https://www.e3group.caece.net)
+- 🏢 Research Assistant [@National Taiwan University](https://www.ntu.edu.tw/)
 - 📫 How to reach me: wctseng99@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=wctseng99)
