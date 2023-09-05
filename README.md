@@ -9,6 +9,6 @@
 - 🏢 Graudate Student [@National Taiwan University](https://www.ntu.edu.tw/)
 - 📫 How to reach me: wctseng99@gmail.com
 
+
 ![](https://komarev.com/ghpvc/?username=wctseng99)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wctseng99&layout=compact)
