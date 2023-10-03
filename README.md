@@ -6,7 +6,7 @@
 ### Hi there, I'm Wei-Chun (Jim) Tseng👋
 
 - 💻 Research Assistant [@E3 Research Group](https://www.e3group.caece.net)
-- 🏢 Graudate Student [@National Taiwan University](https://www.ntu.edu.tw/)
+- 🏢 Graudate Student [@National Taiwan Universit](https://www.ntu.edu.tw/) / [@Computer-Aided Engineering](https://www.caece.net/)
 - 📫 How to reach me: wctseng99@gmail.com
 
 
