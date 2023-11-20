@@ -8,7 +8,7 @@
 - 💻 Research Assistant [@E3 Research Group](https://www.e3group.caece.net)
 - 🎓 Class of 2023 (R10) [@National Taiwan University](https://www.ntu.edu.tw/)
 - 🏫 Graduate Student [@Computer-Aided Engineering](https://www.caece.net/)
-- 📄 Contact Information [@wctseng.com](https://wctseng.com) | wctseng99@gmail.com
+- 📄 Contact Information [https://wctseng.com](https://wctseng.com) | wctseng99@gmail.com
 
 
 
