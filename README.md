@@ -6,9 +6,8 @@
 ### Hi there, I'm Wei-Chun (Jim) Tseng👋
 
 - 📄 Contact Information [https://wctseng.com](https://wctseng.com) | wctseng99@gmail.com
-- 💻 Research Assistant [@E3 Research Group](https://www.e3group.caece.net)
-- 🎓 Class of 2023 (R10) [@National Taiwan University](https://www.ntu.edu.tw/)
-- 🏫 Graduate Student [@Computer-Aided Engineering](https://www.caece.net/)
+- 🎓 Class of 2023 (R10) [@National Taiwan University](https://www.ntu.edu.tw/) | [@Computer-Aided Engineering](https://www.caece.net/)
+- 💻 Graduate Student [@E3 Research Group](https://www.e3group.caece.net)
 
 
 
