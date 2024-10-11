@@ -1,2 +1,7 @@
 
-software engineer @ micron technology | ex-research assistant @ e3 research group | m.s. in cae @ national taiwan university
+Software engineer @ Micron Technology |
+Ex-research assistant @ E3 Research Group | 
+M.S. in CAE @ National Taiwan University
+
+
+[wctseng.com](https://wctseng.com/)
