@@ -1,6 +1,6 @@
 
-Software engineer @ Micron Technology |
-Ex-research assistant @ E3 Research Group | 
+Software Engineer @ Micron Technology |
+Ex-Research Assistant @ E3 Research Group | 
 M.S. in CAE @ National Taiwan University
 
 
